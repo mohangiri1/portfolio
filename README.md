@@ -1,2 +1,6 @@
-# portfolio
-This is a repository for making my own portfolio
+# Data Scientist
+
+### Education
+Physics, PhD
+
+### Work Experience
