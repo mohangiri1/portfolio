@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, LabView, MATLAB
 
 ## Education
-- Ph.D., Physics | Baylor University, US (_May 2025_)								       		
+- Ph.D., Physics | Baylor University, US (_May 2026_)								       		
 - M.S., Physics	| Baylor University, US (_December 2022_)
 - M.Sc., Physics	| Tribhuvan University, Nepal (_August 2018_) 			        		
 - B.Sc., Physics | Tribhuvan University, Nepal (_August 2014_)
