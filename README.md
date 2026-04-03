@@ -95,10 +95,10 @@
 ## Presentations and Invited Lectures
 
 - **Oral Presentation:**
-  *Electronic Properties of ErAs:GaAs<sub>1-x</sub>Bi<sub>x</sub>*  
+  - *Electronic Properties of ErAs:GaAs<sub>1-x</sub>Bi<sub>x</sub>*  
   APS March Meeting, Anaheim, California, USA, March 18, 2025
    
-  *Carrier Dynamics of ErAs:GaAs<sub>1-x</sub>Bi<sub>x</sub> using Infrared Pump, Terahertz Probe Spectroscopy*  
+  -*Carrier Dynamics of ErAs:GaAs<sub>1-x</sub>Bi<sub>x</sub> using Infrared Pump, Terahertz Probe Spectroscopy*  
   APS March Meeting, Minnesota, USA, March 7, 2024
 
 - **Oral Presentation:**  
