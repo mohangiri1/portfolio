@@ -35,7 +35,7 @@
 ## Research Experience
 
 1. **University of Delaware, Newark, DE, US (2026–Present)**  
-   - Development of a two-dimensional terahertz spectrometer for studying the magnetic properties of materials
+   - Development of a two-dimensional terahertz spectrometer for studying the magnetic properties of materials.
    - Development of THz-time domain spectroscopy using tilted pulse front method in lithium niobate.
     
 2. **Baylor University, Waco, TX, US (2020–2025)**  
